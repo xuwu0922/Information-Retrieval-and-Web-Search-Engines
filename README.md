@@ -1,7 +1,8 @@
 # Information-Retrieval-and-Web-Search-Engines
 
-CSCI 572 Homework Projects
-Professor: Chris Mattmann
+USC CSCI 572 Fall 2015 Team 9 Homework Projects
+
+Professor: Chris Mattmann http://sunset.usc.edu/~mattmann/
 
 1.Crawling and Deduplication of Weapons Images Using
 Nutch and Tika
