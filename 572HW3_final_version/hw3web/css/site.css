@@ -1,0 +1,50 @@
+﻿.current-spot {
+  margin-top: 50px;
+  background-color: #fbbf69;
+}
+
+.current-spot h3 {
+  margin-top: 12px;
+  margin-bottom: 14px;
+}
+
+.main-content {
+  padding-top: 16px;
+  padding-bottom: 12px;
+}
+
+.oddRow {
+  background-color: #dddddd;
+}
+
+.list-name {
+  margin-top: 13px;
+  margin-bottom: 14px;
+}
+
+.button-space {
+  margin-top: 8px;
+}
+
+#chartA svg {
+  height: 1000px;
+}
+#chartB svg {
+  height: 400px;
+}
+#chartC svg {
+  height: 400px;
+}
+#chartD svg {
+  margin: 0px;
+  padding: 0px;
+  height: 400px;
+  width: 100%;
+}
+#chartOther svg {
+  height: 400px;
+}
+
+#chartOther2 svg {
+  height: 800px;
+}

@@ -1,0 +1,42 @@
+6127 documents found:
+doc id: 7016 
+doc score: 1.8045605 
+location: cedar park, Austin, Texas
+ description: very nice condition, but certainly not new High Serial number 1002284
+ availableDate: 2015-05-23 00:00:00
+ sellerDesc: Private Party
+ itemCategory: Rifles
+ itemManufacturer: Springfield
+doc id: 117852 
+doc score: 1.5805482 
+location: College Station, Houston, Texas
+ description: 12 gauge steel bilt 2 3/4 not sure what year nor serial number. Single shot break open barrel.
+ availableDate: 2015-05-16 00:00:00
+ sellerDesc: Private Party
+ itemCategory: 
+ itemManufacturer: 
+doc id: 88276 
+doc score: 1.4290445 
+location: 27127, Winston Salem, North Carolina
+ description: serial number 960-2104  40.00
+ availableDate: 2015-05-17 00:00:00
+ sellerDesc: Private Party
+ itemCategory: 
+ itemManufacturer: 
+doc id: 148749 
+doc score: 1.3547556 
+location: Thomasville, Georgia, United States
+ description: Nice Broomhandle Mauser, Waffenfabrik Oberndorf. Serial number 8593xx. Metal is patina but not pitted. Wood is good condition. Import by KFS ATL GA. $1195 + $30 shipping.
+ availableDate: 1900-01-01 00:00:00
+ sellerDesc: Premium Vendor
+ itemCategory: Handguns
+ itemManufacturer: Mauser
+doc id: 130680 
+doc score: 1.3419287 
+location: Northwest Side, Northave &amp; Pulaski, Chicago, Illinois
+ description: U.S.A. Magazines GLOCK 9MM 30RD New in Plastic cover never used Serial Number: 19779 52411 5 Total Magazines, will not separate!!!!!... ***** FIRM PRICE ***** $250.00 CASH      
+ availableDate: 1900-01-01 00:00:00
+ sellerDesc: Private Party
+ itemCategory: 
+ itemManufacturer: 
+no documents found

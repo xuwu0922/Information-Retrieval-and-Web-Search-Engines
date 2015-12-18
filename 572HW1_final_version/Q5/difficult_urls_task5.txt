@@ -1,0 +1,216 @@
+
+####################Can't retrieve Tika parser for mime-type text/aspdotnet
+
+2015-10-08 00:26:28,480 WARN  parse.ParseSegment - Error parsing: http://www.jasonsguns.com/Default.aspx?CityCode=8: failed(2,0): Can't retrieve Tika parser for mime-type text/aspdotnet
+
+2015-10-08 00:26:28,443 WARN  parse.ParseSegment - Error parsing: http://www.jasonsguns.com/Create.aspx?code=Fishing: failed(2,0): Can't retrieve Tika parser for mime-type text/aspdotnet
+
+2015-10-08 00:26:28,541 WARN  parse.ParseSegment - Error parsing: http://www.jasonsguns.com/Search.aspx?code=Optics: failed(2,0): Can't retrieve Tika parser for mime-type text/aspdotnet
+
+
+###############Can't retrieve Tika parser for mime-type text/x-matlab
+
+2015-10-08 00:26:42,553 WARN  parse.ParseSegment - Error parsing: https://www.vci-classifieds.com/js/a.js: failed(2,0): Can't retrieve Tika parser for mime-type text/x-matlab
+
+2015-10-08 00:26:28,549 WARN  parse.ParseSegment - Error parsing: http://www.jasonsguns.com/WebResource.axd?d=3vwamfIZdItT4X_oWa1-kisWrp3zvplCWkZ-Ax1cTln7yXU_yGG_T0zXl76WxAmEjgCRy8jC8vbLtTcTOPg2CBWAJ7w1&t=635588327086469712: failed(2,0): Can't retrieve Tika parser for mime-type text/x-matlab
+
+2015-10-08 08:44:19,544 WARN  parse.ParseSegment - Error parsing: http://www.ksl.com/helpers/widget/scripts/singleton.rev201.js: failed(2,0): Can't retrieve Tika parser for mime-type text/x-matlab
+
+2015-10-08 08:43:02,720 WARN  parse.ParseSegment - Error parsing: https://www.vci-classifieds.com/js/mail.js: failed(2,0): Can't retrieve Tika parser for mime-type text/x-matlab
+
+
+#######################tika.TikaParser - Can't retrieve Tika parser for mime-type application/javascript
+
+2015-10-07 06:03:31,803 WARN  parse.ParseSegment - Error parsing: https://www.gstatic.com/_/play/_/js/k=play.js.ko.Saak6hYHW7c.O/m=base,f,m/rt=j/d=1/rs=AGlW0sYuMXwMgoUFj6BJJIt1LjIcePsROg: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+
+2015-10-07 05:58:37,031 INFO  fetcher.FetcherThread - fetching https://www.gstatic.com/_/play/_/js/k=play.js.ko.Saak6hYHW7c.O/m=base,f,m/rt=j/d=1/rs=AGlW0sYuMXwMgoUFj6BJJIt1LjIcePsROg: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript (queue crawl delay=500ms)
+
+2015-10-07 06:03:31,803 WARN  parse.ParseSegment - Error parsing: https://www.gstatic.com/_/play/_/js/k=play.js.ko.Saak6hYHW7c.O/m=base,f,m/rt=j/d=1/rs=AGlW0sYuMXwMgoUFj6BJJIt1LjIcePsROg: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+
+
+
+################ Can't retrieve Tika parser for mime-type text/x-php
+
+2015-10-08 01:06:09,805 WARN  parse.ParseSegment - Error parsing: http://montanaguns.org/index.php?a=join: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+2015-10-08 01:06:09,814 WARN  parse.ParseSegment - Error parsing: http://montanaguns.org/index.php?a=stats&u=kilimanjaro&all_reviews=1: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+2015-10-08 08:43:37,282 WARN  parse.ParseSegment - Error parsing: http://montanaguns.org/index.php?a=stats&u=montanaammunition&all_reviews=1: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+2015-10-08 08:44:28,913 WARN  parse.ParseSegment - Error parsing: http://www.ksl.com/index.php?nid=10: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+##################### http code=403
+2015-10-08 01:41:34,675 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/members/sharps40.56/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/sharps40.56/
+
+www.theoutdoorstrader.com/members/jkaczyn18.6841/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/jkaczyn18.6841/
+
+2015-10-08 00:06:25,749 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/members/tiamat.31361/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/tiamat.31361/
+
+###############  selenium
+
+2015-10-08 00:30:49,478 ERROR selenium.Http - Failed to get protocol output
+java.lang.RuntimeException: org.openqa.selenium.WebDriverException: Unable to bind to locking port 7054 within 45000 ms
+Build info: version: '2.44.0', revision: 
+.....
+Caused by: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+
+2015-10-08 00:30:07,946 INFO  fetcher.FetcherThread - fetch of http://www.youtube.com/user/montanaguns failed with: java.lang.RuntimeException: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+
+2015-10-08 00:29:56,192 INFO  fetcher.FetcherThread - fetch of http://www.avantlink.com/api.php?affiliate_id=18557&module=AdSearch&website_id=40585&merchant_ids=11929%7C11469%7C12263&ad_type=image&image_width=468&search_results_count=1&output=js&context_url=http%3A%2F%2Fwww.montanagunclassifieds.com%2Fkeyword_beretta_0.html failed with: java.lang.RuntimeException: org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(/Applications/Firefox.app/Contents/MacOS/firefox-bin) on port 7060; process output follows: 
+g file entry whose name is not a valid add-on ID: /var/folders/26/hcm0y60x2mzgnf1pmk2pbp3c0000gn/T/anonymous5392962665385819442webdriver-profile/extensions/webdriver-staging
+
+
+2015-10-07 23:16:36,972 INFO  fetcher.FetcherThread - fetch of http://www.nextechclassifieds.com/ failed with: java.lang.RuntimeException: org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(/Applications/Firefox.app/Contents/MacOS/firefox-bin) on port 7060; process output follows: 
+addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: /var/folders/26/hcm0y60x2mzgnf1pmk2pbp3c0000gn/T/anonymous4461554514352492870webdriver-profile/extensions/webdriver-staging
+
+############## ERROR httpclient.Http,, Invalid query
+
+2015-10-08 00:00:14,801 ERROR httpclient.Http - Failed to get protocol output
+java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Auto Parts/Tires and Wheels': Invalid query
+
+2015-10-08 00:04:00,279 ERROR httpclient.Http - Failed to get protocol output
+java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Autos/Sports Car': Invalid query
+
+2015-10-08 00:06:16,016 INFO  fetcher.FetcherThread - fetch of https://www.vci-classifieds.com/directory.php?filter=Arts and Crafts failed with: java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Arts and Crafts': Invalid query
+
+2015-10-08 00:09:13,771 ERROR httpclient.Http - Failed to get protocol output
+java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Computers and Accessories/Tablets': Invalid query
+
+############## fetch_gone robot denied:
+http://antofagasta.backpage.com/ElectronicsForSale/
+http://antofagasta.backpage.com/FinancialServices/
+http://antofagasta.backpage.com/adult/classifieds/Disclaimer?section=4381
+http://antofagasta.backpage.com/automotive/
+http://antofagasta.backpage.com/buyselltrade/
+http://antofagasta.backpage.com/community/
+http://antofagasta.backpage.com/dating/classifieds/Disclaimer?section=4383
+http://antofagasta.backpage.com/employment/
+http://antofagasta.backpage.com/musician/
+http://antofagasta.backpage.com/places/
+http://antofagasta.backpage.com/rentals/
+http://antofagasta.backpage.com/services/
+http://battlecreek.backpage.com/BizOpps/
+http://laserena.backpage.com/BizOpps/
+http://laserena.backpage.com/ElectronicsForSale/
+http://www.recycler.com/Popup/ContactDealer/768432
+http://www.recycler.com/Popup/ContactSeller/61552569
+http://www.recycler.com/Popup/SaveSearchLogonRegister?returnURL=http%253a%252f%252fwww.recycler.com%252fDealer%252f6325640
+http://www.recycler.com/Popup/SaveSearchLogonRegister?returnURL=http%253a%252f%252fwww.recycler.com%252fdetails%252f61552569%252ffishing-or-family-vessel
+http://www.recycler.com/Popup/SaveSearchLogonRegister?returnURL=http%253a%252f%252fwww.recycler.com%252ftickets
+http://www.recycler.com/Popup/ContactDealer/768432
+http://www.recycler.com/Popup/ContactSeller/61552569
+http://www.recycler.com/Popup/SaveSearchLogonRegister?returnURL=http%253a%252f%252fwww.recycler.com%252fdetails%252f61552569%252ffishing-or-family-vessel
+http://www.recycler.com/Popup/SaveSearchLogonRegister?returnURL=http%253a%252f%252fwww.recycler.com%252ftickets
+
+############## Time out
+http://wichita.backpage.com/AccountingJobs/
+http://wichita.backpage.com/AdminOfficeJobs/
+
+
+############## org.openqa.selenium.WebDriverException
+http://wichita.backpage.com/AntiquesForSale/
+http://wichita.backpage.com/ApartmentsForRent/
+http://wichita.backpage.com/CommercialForSale/
+http://wichita.backpage.com/EducationJobs/
+http://wichita.backpage.com/Events/
+http://wichita.backpage.com/Farm/
+http://www.freegunclaxssifieds.com/redirect?URL=main%253FParticipantID%253D96e687opkbv4scrood8k84drs6gw5duf%2526Implementation%253D0%2526ClientLocation%253Dus%2526FailureMode%253D5%2526SearchQuery%253DCheap%252BAirfare%2526LinkID%253DVhX6xX8AAAEAAEULiRgAAAAS%2526CleanFeed%253D0%2526LinkType%253D44%2526pvf%253D1%2526pvi%253D0&HitID=VhX6xX8AAAEAAEULiRgAAAAS&ParticipantID=96e687opkbv4scrood8k84drs6gw5duf&Keyword=Cheap+Airfare&Position=1&LinkID=VhX6xX8AAAEAAEULiRgAAAAS&Affiliate=44&KeywordType=1&FailureMode=1&HitDateTime=2015-10-08+05%3A10%3A29&SH=0&rand=ba655a24536b61b6d63551434e7c8f3a
+http://www.freegunclaxssifieds.com/redirect?URL=main%253FParticipantID%253D96e687opkbv4scrood8k84drs6gw5duf%2526Implementation%253D0%2526ClientLocation%253Dus%2526FailureMode%253D5%2526SearchQuery%253DVacation%252BPackages%2526LinkID%253DVhX6Yn8AAAEAAERfasEAAABG%2526CleanFeed%253D0%2526LinkType%253D44%2526pvf%253D1%2526pvi%253D0&HitID=VhX6Yn8AAAEAAERfasEAAABG&ParticipantID=96e687opkbv4scrood8k84drs6gw5duf&Keyword=Vacation+Packages&Position=1&LinkID=VhX6Yn8AAAEAAERfasEAAABG&Affiliate=44&KeywordType=1&FailureMode=1&HitDateTime=2015-10-08+05%3A08%3A50&SH=0&rand=f821c437c16c68928d105bb527a2f619
+
+
+############## java.lang.RuntimeException: org.openqa.selenium.WebDriverException:
+http://www.shooting.org/Events/Tennessee/FIRECRACKER_4_X_50
+http://www.shooting.org/Guns/Thompson_CenterArms/Pro_Hunter_XT
+http://www.slickguns.com/category/ammo?caliber=1126
+http://www.slickguns.com/category/ammo?view=list
+http://www.slickguns.com/product/yanseller-credit-card-folding-safety-knife-168-shipped
+http://pc.gunbroker.com/Products/Search/1?Categories=3039
+http://pc.gunbroker.com/Products/Search/1?Categories=3108
+http://pc.gunbroker.com/Products/Search/1?Categories=979
+
+############## not found:
+https://texasguntrader.com/db/tgt_pics7657427.jpg
+https://texasguntrader.com/db/tgt_pics8130247.jpg
+
+############## Can't retrieve Tika parser for mime-type text/x-matlab:
+http://www.shooting.com/Resources/Shared/scripts/initWidgets.js
+http://www.shooting.com/WebResource.axd?d=AzX7LEKjyNOehd3jUhPU9tS268Y3qEEZcRpDCxtn4cwN0TgTftb-pgYhUiOKoNZov9ArUQ8MauACNuLb0&t=634604136479085897
+
+############## Can't retrieve Tika parser for mime-type text/aspdotnet:
+http://www.shooting.com/forum.aspx
+http://www.shooting.com/range.aspx
+
+############## Can't retrieve Tika parser for mime-type application/javascript:
+http://www.shooting.com/js/dnn.dom.positioning.js
+
+############## Can't retrieve Tika parser for mime-type text/x-php:
+http://www.gundeals.org/0/events/2015-10-07/index.php?view=page&pagename=terms
+
+
+############## Tika parser errors: 
+
+Error parsing: http://ads.autotrader.com/DE/DEMediaSupportConcat_1_0.js: failed(2,0): Can't retrieve Tika parser for mime-type text/x-matlab
+http://av.ebaystatic.com/aw/pics/videos/sell/picsize/2182_eBay_Picture_Size.swf: failed(2,0): Can't retrieve Tika parser for mime-type application/x-shockwave-flash
+Error parsing: http://buyherepayhere.autotrader.com/js-new/vendor/respond.js: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+Error parsing: http://cologunmarket.com/firearms/index.php?page=page&id=22: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+Error parsing: http://floridaguntrader.com/index.php?a=2&b=548984: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+Error parsing: http://www.hawaiiguntrader.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+Error parsing: http://cologunmarket.com/oc-content/themes/modern/js/global.js: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+
+
+############## http code=405
+
+fetch of http://www.hawaiiguntrader.com/xmlrpc.php failed with: Http code=405, url=http://www.hawaiiguntrader.com/xmlrpc.php
+fetch of http://www.tricklock.com/xmlrpc.php failed with: Http code=405, url=http://www.tricklock.com/xmlrpc.php
+fetch of http://lasvegasartscouncil.org/xmlrpc.php failed with: Http code=405, url=http://lasvegasartscouncil.org/xmlrpc.php
+
+
+############## http code=500
+
+fetch of http://www.wantaddigest.com/view/forsalestate.asp?state=NY&page=17&eclass= failed with: Http code=500, url=http://www.wantaddigest.com/view/forsalestate.asp?state=NY&page=17&eclass=     (web page actually loads in normal browser)
+fetch of http://phxguntrader.com/services/ failed with: Http code=500, url=http://phxguntrader.com/services/
+fetch of http://www.autotrader.com/find/Geo-cars-for-sale.xhtml failed with: Http code=500, url=http://www.autotrader.com/find/Geo-cars-for-sale.xhtml
+fetch of http://www.wantaddigest.com/view/forsale.asp?eclass=Personals failed with: Http code=500, url=http://www.wantaddigest.com/view/forsale.asp?eclass=Personals
+
+
+############## Robots_denied
+
+https://securepubads.g.doubleclick.net/gampad/ads?correlator=219422101521427&output=json_html&callback=GA_googleSetAdContentsBySlotForSync&impl=s&ic=0&eid=108809087&client=ca-pub-0568194180963808&slotname=300x250_Jobs_ATF&page_slots=728x90_Top_Jobs%2C300x250_Jobs_ATF&cookie=ID%3D7aee7c4aad862f67%3AT%3D1444381730%3AS%3DALNI_MZ-vMKnuhjSKslxWFA5HqCkLjWOzQ&cookie_enabled=1&url=http%3A%2F%2Fabqcareers.careers.adicio.com%2Fjobs%2Frisk-safety-engineer-albuquerque-nm-81435679-d%3FcontextType%3Dfeatured&lmt=1444381729&dt=1444381730900&cc=100&biw=941&bih=503&adk=3956426477&adx=680&ady=196&ifi=2&oid=3&u_tz=-420&u_his=1&u_java=true&u_h=800&u_w=1280&u_ah=777&u_aw=1255&u_cd=24&u_nplug=10&u_nmime=89&flash=19.0.0&gads=v2&ga_vid=211009187.1444381731&ga_sid=1444381731&ga_hid=997723652&ga_fc=true
+
+
+############## java.lang.RuntimeException: org.openqa.selenium.WebDriverException
+
+http://floridagunclassifieds.com/gun-for-sale/northflorida/rifles-northflorida-2/
+http://floridagunclassifieds.com/listing/custom-ar15/
+http://instagram.com/floridagunclassifieds?ref=badge
+http://www.abqjournal.com/655775/news/for-the-petrehns-ballooning-is-a-family-affair.html
+http://www.abqjournal.com/category/automotive
+http://www.comprayventadearmas.com/ad-tag/portacion/
+
+
+############## java.lang.RuntimeException: org.openqa.selenium.remote.UnreachableBrowserException:
+
+http://floridagunclassifieds.com/listing/ati-omni-ar-pistol-556223-with-forward-assist-and-dust-cover/
+http://www.abqjournal.com/643520/news/einar-ingman-jr-medal-of-honor-recipient-dies-at-85.html
+
+
+############## javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+
+https://floridagunclassifieds.com/online-store
+
+
+############## java.net.UnknownHostException
+http://mt0.googleapis.com/vt?pb=!1m5!1m4!1i14!2i4538!3i6951!4i256!2m3!1e0!2sm!3i323290745!3m9!2sen!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!5f2
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+nodeId: Want To Buy: WWII Nazi Browning Hi-Power 9mm High Hi BHP
+score: 2.46866512554
+location: Oklahoma City, Oklahoma City, Oklahoma
+description: Looking to buy or trade for your Matching correct WWII Nazi marked Browning Hi-Power.  If you are located in the OKC area please message me.  Thank you.
+availableDate: 2015-05-22 00:00:00
+
+nodeId: Want To Buy: Sig Sauer P226 Navy 9mm pistol mk25 Mark 25
+score: 2.46860910524
+location: Oklahoma City, Oklahoma City, Oklahoma
+description: Looking to buy or trade for your Sig Sauer Navy P226 pistol. Must be the Navy model.   I have cash in hand as well as a variety of firearms to trade.   FTF in OKC area.  Thank you.
+availableDate: 2015-05-22 00:00:00
+
+nodeId: For Sale: Like New Custom Glock 43
+score: 2.46581641005
+location: OKC, Oklahoma City, Oklahoma
+description: I have a Glock 43 with Traction rubber grips and Trijicon HD sights. Looking to sell. Will trade for a Bersa Thunder and 500 dollars. I will also trade for a like new Colt Anaconda 4 or 6 inch barrel 44 magnum. Serious Inquiries Only, Cash Only. I will only sell to someone with a CCW or that is CLEET certified. For the rest of you... too F*&kin bad, go get your CCW to prove your not a criminal looking to buy a firearm online. Suck it!
+availableDate: 2015-05-20 00:00:00
+
+nodeId: Want To Buy: p17 Enfield .30-06 WWI Remington Eddystone USGI 1917 m1917 ww1 WWII ww2 colt
+score: 2.46579383788
+location: Oklahoma City, Oklahoma City, Oklahoma
+description: Looking to buy or trade for your original, un-altered, p17 USGI Enfield .30-06 rifle.   I have cash in hand as well as firearms to trade.   FTF in OKC area only. I'll be back in town on 12 May.   Please message me if you have an original p17.
+availableDate: 2015-05-20 00:00:00
+
+nodeId: Want To Buy: rifles
+score: 2.44949724185
+location: Edmond, Oklahoma City, Oklahoma
+description: Looking to buy rifles that are older, ruff, or just ones you don't wantSavage model 110, 111, 11, 10, Winchester 70, Remington 700 or others. Willing to pay up to 300 cash. Caliber can very.
+availableDate: 2015-05-16 00:00:00
+
+nodeId: Want To Buy: Rock Island 1911 Tactical
+score: 2.44823504385
+location: Midwest City, Oklahoma City, Oklahoma
+description: Looking to buy a new or like new Rock Island 1911 tactical .45  Possibly trade one of my other toys for it, if you'd like. Thanks.
+availableDate: 2015-05-23 00:00:00
+
+nodeId: Want To Buy: Looking to buy H&amp;K P30 13rd mag in .40
+score: 2.43553662689
+location: Moore, Oklahoma City, Oklahoma
+description: I'm looking to buy a 13rd P30 magazine in .40. It has to be a factory H&K magazine or I'm not interested.. Thanks  Call/text Jeremy @: 40five 83four 47six2
+availableDate: 2015-05-21 00:00:00
+
+nodeId: Want To Buy: WANT TO BUY HIGH POINTS AND OTHER CHEAPER HANDGUNS!!!
+score: 2.43551084854
+location: Oklahoma city, Oklahoma City, Oklahoma
+description: LOOKING TO BUY HIGH POINTS.. JENNINGS. ..JIMENEZ AND OTHER LESS INEXPENSIVE HANDGUNS. TOP DOLLAR PAID. CALL OR TEXT 4052877537.
+availableDate: 2015-05-21 00:00:00
+
+nodeId: For Sale: want to buy gen 4 glocks or fns!!
+score: 2.36570848189
+location: nw okc, Oklahoma City, Oklahoma
+description: have cash on hand want a 2 tone .40 fns, or gen 4 glocks....not paying full retail pricing on used guns so please be reasonable, looking to buy asap txt 405315186eight
+availableDate: 2015-05-26 00:00:00
+
+nodeId: Want To Buy: DPMS LR-6.5 Creedmoor
+score: 2.31774422238
+location: Edmond, Oklahoma City, Oklahoma
+description: im looking to buy a DPMS LR-6.5 Creedmoor. If you have one and want to sell it please call me at 405-830-8455. I would also be interested in any other brands of AR 10 chambered in 6.5 Creedmoor.
+availableDate: 2015-05-24 00:00:00
+
+nodeId: Want To Buy: Arsenal Strike One 9mm Pistol
+score: 2.26050701819
+location: Fishers, Indianapolis, Indiana
+description: Looking to buy a Arsenal Strike One 9mm pistol cash in hand.
+availableDate: 2015-05-20 00:00:00
+
+nodeId: Want To Buy: 54 cal TC Renagade or Hawken
+score: 2.26046163152
+location: 50 miles Sourh East of Indianapolis, Indianapolis, Indiana
+description: looking to buy or trade for a Reasonable priced TC Renagade or Hawken in 54 Cal.
+availableDate: 2015-05-20 00:00:00
+
+nodeId: Want To Buy: contender
+score: 2.26045571728
+location: indy, Indianapolis, Indiana
+description: Looking to buy a Tc contender or Encore in a 45-410 with at least 12in barrel.
+availableDate: 2015-05-20 00:00:00
+
+nodeId: Want To Buy: Glocks Willing To Spend 450
+score: 2.23351057181
+location: East Indy, Indianapolis, Indiana
+description: looking to buy glocks for reasonable price 450 email if anyone is selling one
+availableDate: 2015-05-19 00:00:00
+
+nodeId: Want To Buy: want to buy FN FNX-45 mags
+score: 2.22474018788
+location: Southside, Indianapolis, Indiana
+description: looking to buy or trade for FN FNX-45 (15)round mags
+availableDate: 2015-05-21 00:00:00
+
+nodeId: Want To Buy: Glock 19 any gen
+score: 2.2230464576
+location: Indy, Indianapolis, Indiana
+description: Looking to buy a g19 either gen 3 or 4. Have cash in hand. 3175294317
+availableDate: 2015-05-18 00:00:00
+
+nodeId: Want To Buy: AR 223/556
+score: 2.22280239296
+location: SW INDY DECATEUR TOWNSHIP, Indianapolis, Indiana
+description: Looking to buy a reasonable lower priced AR in a 223/556. Not looking for anything crazy priced, just something cheap to see if I am interested in one or something else. I have checked on some lower priced ones locally and on line so I am somewhat familiar with what a lower priced starter one would be worth used.
+availableDate: 2015-05-16 00:00:00
+
+nodeId: Want To Buy: 9 Shot 22 LR Revolver
+score: 2.21401505523
+location: Bethany / NW OKC, Oklahoma City, Oklahoma
+description: Looking to buy or trade for a 22 LR Revolver 405-397-6295
+availableDate: 2015-05-30 00:00:00
+
+nodeId: Want To Buy: Gibbs 1903a4 Sniper Rifle WWII usgi WWI 1903 a4 M1
+score: 2.21400038926
+location: Oklahoma City, Oklahoma City, Oklahoma
+description: Looking to buy or trade for your Gibbs 1903a4 sniper rifle.   I have cash in hand as well as a lot of firearms to trade.    If you have one please message me.
+availableDate: 2015-05-30 00:00:00
+
+nodeId: Want To Buy: WTT/WTB----Mags for Walther sp22
+score: 2.19749221911
+location: scorpio963@earthlink.net, Denver, Colorado
+description: looking to buy/trade/sell magazines  need......Walther sp22 m2 ( 22cal lr Magazines) HAVE TO TRADE 3 sig sauer mag's for a sp2022 9mm...sp2009....sp2340(all the same mag) 38 spl ammo....5 boxes 357 mag ammo....2 boxes 9mm (52) 115gr various/assorted LRN
+availableDate: 2015-05-22 00:00:00
+

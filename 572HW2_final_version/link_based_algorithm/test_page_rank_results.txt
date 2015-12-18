@@ -1,0 +1,397 @@
+======sorted nodes scores=========
+==========test results==========
+1. nodeId: For Sale: LNIB S&amp;W Model 17 Masterpiece
+score: 1.09943384307
+itemManufacturer: Smith &amp; Wesson
+availableDate: 2015-05-16 00:00:00
+
+2. nodeId: For Sale: Smith&amp;Wesson Model 1905 M&amp;P .38Spl
+score: 1.08881119208
+itemManufacturer: Smith &amp; Wesson
+availableDate: 2015-05-17 00:00:00
+
+3. nodeId: For Sale/Trade: Tikka Lite 223 $450
+score: 1.07529895157
+itemManufacturer: Remington
+availableDate: 2015-05-16 00:00:00
+
+4. nodeId: For Sale/Trade: Rem 700 338 lapua for sale or trade
+score: 1.03882257586
+itemManufacturer: Remington
+availableDate: 2015-05-23 00:00:00
+
+5. nodeId: For Sale: Smith &amp; Wesson M&amp;P.40 Full size
+score: 1.01711321903
+itemManufacturer: Smith &amp; Wesson
+availableDate: 2015-05-26 00:00:00
+
+6. nodeId: For Sale: Remington 770 30-06
+score: 0.990019141858
+itemManufacturer: Remington
+availableDate: 2015-05-26 00:00:00
+
+7. nodeId: For Sale: sig sauer p238 380 auto
+score: 0.941153007555
+itemManufacturer: Sig Sauer
+availableDate: 2015-05-24 00:00:00
+
+8. nodeId: For Sale/Trade: Ruger Single Six convertible 22.cal with extra cylinder for 22 mag
+score: 0.939944915919
+itemManufacturer: Ruger
+availableDate: 2015-05-24 00:00:00
+
+9. nodeId: For Sale: Brand New Glock 23 Gen 4 OD Green **Never fired**
+score: 0.933625082545
+itemManufacturer: Glock
+availableDate: 2015-05-21 00:00:00
+
+10. nodeId: For Trade: Norinco AK-47 Type 56 Vietnam War Retro Clone Converted Mak-90
+score: 0.919198099945
+itemManufacturer: Norinco
+availableDate: 2015-05-24 00:00:00
+
+11. nodeId: For Sale/Trade: Springfield XD9 compact with XD gear
+score: 0.911379122398
+itemManufacturer: Springfield
+availableDate: 2015-05-21 00:00:00
+
+12. nodeId: For Sale: Browning Hi Power Practical - 40 cal LNIB, target
+score: 0.909677708561
+itemManufacturer: Browning
+availableDate: 2015-05-16 00:00:00
+
+13. nodeId: For Sale: Smith and Wesson 629-3
+score: 0.906559551946
+itemManufacturer: Smith &amp; Wesson
+availableDate: 2015-05-20 00:00:00
+
+14. nodeId: For Sale/Trade: Springfield XD9 Subcompact w/ 4 mags, Price lowered!
+score: 0.862442041046
+itemManufacturer: Springfield
+availableDate: 2015-05-29 00:00:00
+
+15. nodeId: Want To Buy: remington 760 stocks
+score: 0.830148958804
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+16. nodeId: For Sale/Trade: CZ P-07 Duty OD Green 9mm
+score: 0.817971633334
+itemManufacturer: CZ USA
+availableDate: 2015-05-16 00:00:00
+
+17. nodeId: For Sale: IMR Hyskore 700X 4lb and 14oz containers
+score: 0.812332407149
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+18. nodeId: For Sale: Ruger GP100 and Vepr 308
+score: 0.811813988039
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+19. nodeId: For Trade: BROWNING 12 GAUGE A5 MAGNUM TWELVE BELGIUM
+score: 0.810922824388
+itemManufacturer: Browning
+availableDate: 2015-05-24 00:00:00
+
+20. nodeId: For Trade: rock island ak-22 and no4 mark1 enfield $1
+score: 0.809134419161
+itemManufacturer: American Tactical Imports
+availableDate: 2015-05-24 00:00:00
+
+21. nodeId: For Sale/Trade: Daniel Defense DDM4v7 AR15 with Geissele 2 stage trigger
+score: 0.807773883192
+itemManufacturer: Daniel Defense
+availableDate: 2015-05-21 00:00:00
+
+22. nodeId: For Sale: Savage 110 BA 338 Lapua LE Camo Leupold Mark 4 TMR
+score: 0.807286126005
+itemManufacturer: 
+availableDate: 2015-05-28 00:00:00
+
+23. nodeId: For Sale/Trade: Savage 110
+score: 0.804705339717
+itemManufacturer: Savage Arms
+availableDate: 2015-05-22 00:00:00
+
+24. nodeId: For Sale/Trade: PMAG Kydex Coyote Brown Mag Pouch
+score: 0.800075347449
+itemManufacturer: 
+availableDate: 2015-05-24 00:00:00
+
+25. nodeId: For Sale: .458 socom floorplate 10 round
+score: 0.798204933432
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+26. nodeId: For Sale/Trade: Volkswagon Cruiser Bicycle
+score: 0.796767899929
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+27. nodeId: For Sale: FNH SCAR 16S or 17S CA Compliant 30/10 mag or 20/10
+score: 0.791593238294
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+28. nodeId: Want To Buy: Maverick 88, Mossberg 500, Stevens 320
+score: 0.789374242582
+itemManufacturer: Maverick
+availableDate: 2015-05-21 00:00:00
+
+29. nodeId: For Sale/Trade: 257 weatherby fired brass and ammo
+score: 0.788507731632
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+30. nodeId: For Sale: CZ 75 Kadet .22 Unit (Not Kadet 1)
+score: 0.785621296588
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+31. nodeId: For Sale/Trade: OD green Sks stock w/ 7 mags
+score: 0.78543792991
+itemManufacturer: 
+availableDate: 2015-05-28 00:00:00
+
+32. nodeId: For Sale/Trade: FNH FNX 45 Stainless Steel 45acp
+score: 0.784837804623
+itemManufacturer: FN Herstal S.A.
+availableDate: 2015-05-16 00:00:00
+
+33. nodeId: For Sale: PWS Mk114
+score: 0.781000190851
+itemManufacturer: 
+availableDate: 2015-05-24 00:00:00
+
+34. nodeId: For Sale: Trijicon acog
+score: 0.779912720188
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+35. nodeId: For Sale: Hopkins &amp; Allen safety police
+score: 0.778381786452
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+36. nodeId: For Sale: Shadow Ops Supressor .223 silver
+score: 0.777936163553
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+37. nodeId: For Sale: Remington 11-87 Sportsman Super Mag
+score: 0.776534183791
+itemManufacturer: Remington
+availableDate: 2015-05-27 00:00:00
+
+38. nodeId: For Sale/Trade: New in the box Springfield 1911 45 GI LW CHAMPION .45 acp
+score: 0.770969401578
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+39. nodeId: For Sale: Kimber Stainless II Full Size 804-398-1179
+score: 0.77095003005
+itemManufacturer: Kimber
+availableDate: 2015-05-24 00:00:00
+
+40. nodeId: For Sale: FMK 9mm
+score: 0.770885709468
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+41. nodeId: Want To Buy: Smith &amp; Wesson old school 9mm auto
+score: 0.770838431689
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+42. nodeId: For Sale: 600 PMC X-TAC M855 (5.56x45mm) 62 Grain FMJ Ammo 5-120 Rd Battle Packs
+score: 0.768465632131
+itemManufacturer: 
+availableDate: 2015-05-21 00:00:00
+
+43. nodeId: For Sale: Lots of Reloading Supplies Powder And More!!!
+score: 0.76829165358
+itemManufacturer: 
+availableDate: 2015-05-23 00:00:00
+
+44. nodeId: For Sale: 1911 TITAN LW FX STOCK SPRINGS 45ACP
+score: 0.763683765999
+itemManufacturer: 
+availableDate: 2015-05-16 00:00:00
+
+45. nodeId: For Sale/Trade: glock 23 gen4 in good condition +ammo
+score: 0.763547608448
+itemManufacturer: 
+availableDate: 2015-05-29 00:00:00
+
+46. nodeId: For Sale: Full Auto BOLT CARRIER GROUP. (BCG) 223/5.56 NEW&amp; ON SALE 89.99 ONLY...
+score: 0.762978545296
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+47. nodeId: For Sale: COLT 1911 Delta Elite Gold Cup 10mm
+score: 0.761662688227
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+48. nodeId: For Sale: New in Box Winchester Model 1895 “Classic Traditions” Rifle Limited Edition
+score: 0.761117660691
+itemManufacturer: Winchester
+availableDate: 2015-05-28 00:00:00
+
+49. nodeId: For Sale: Henry Golden Boy, 22 Mag, Octagon Barrel
+score: 0.757594670443
+itemManufacturer: Henry Repeating Arms
+availableDate: 2015-05-21 00:00:00
+
+50. nodeId: For Sale: ......... Ps4 Bundle ..... 65&#39;&#39; LED TV ......
+score: 0.754789672683
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+51. nodeId: For Sale: 445 rounds of surplus 8mm mauser
+score: 0.752637473219
+itemManufacturer: 
+availableDate: 2015-05-29 00:00:00
+
+52. nodeId: For Sale: Bersa Thunder 380 Combat 8+1 380ACP 3.5
+score: 0.752565668056
+itemManufacturer: Bersa-Eagle
+availableDate: 2015-05-23 00:00:00
+
+53. nodeId: For Trade: 1000 ROUND CASE OF GOLDEN TIGER
+score: 0.751976395248
+itemManufacturer: 
+availableDate: 2015-05-22 00:00:00
+
+54. nodeId: For Sale/Trade: Quality VZ 2008 in 7.62x39mm
+score: 0.74625809284
+itemManufacturer: Century International Arms
+availableDate: 2015-05-17 00:00:00
+
+55. nodeId: For Sale: 3 x S&amp;W Sigma .40 cal magazines
+score: 0.746243042887
+itemManufacturer: 
+availableDate: 2015-05-21 00:00:00
+
+56. nodeId: For Sale: Sig 1911 tacpac
+score: 0.743906107137
+itemManufacturer: Wilson Combat
+availableDate: 2015-05-23 00:00:00
+
+57. nodeId: For Sale: Custom Built AR-15 Scoped
+score: 0.73481989521
+itemManufacturer: 
+availableDate: 2015-05-23 00:00:00
+
+58. nodeId: For Sale: LNIB: sig Sauer p227 tacops .45
+score: 0.73168854177
+itemManufacturer: Sig Sauer
+availableDate: 2015-05-18 00:00:00
+
+59. nodeId: For Sale: SPRINGFIELD 1911 EMP - MINT CONDITION
+score: 0.729039710994
+itemManufacturer: 
+availableDate: 2015-05-29 00:00:00
+
+60. nodeId: For Sale: Like-new, excellent condition, Ruger LCR 357 Magnum Revolver with Hogue Tamer Grip and extras.
+score: 0.728401946371
+itemManufacturer: 
+availableDate: 2015-05-17 00:00:00
+
+61. nodeId: For Sale: Adams Arms AR15 Eotech 512 and G33 magnifier plus upgrades
+score: 0.725286932352
+itemManufacturer: 
+availableDate: 2015-05-23 00:00:00
+
+62. nodeId: For Sale: Marlin 336 Black Polymer Stock
+score: 0.724884246883
+itemManufacturer: 
+availableDate: 2015-05-26 00:00:00
+
+63. nodeId: Want To Buy: INSIGHT Laser Aiming Module/ HK MARK 23
+score: 0.715652046237
+itemManufacturer: 
+availableDate: 2015-05-29 00:00:00
+
+64. nodeId: For Sale: Colt AR-15
+score: 0.715284685668
+itemManufacturer: Colt
+availableDate: 2015-05-23 00:00:00
+
+65. nodeId: For Sale: CMMG 9MM AR with extras 1400 OBO
+score: 0.709632122183
+itemManufacturer: CMMG
+availableDate: 2015-05-26 00:00:00
+
+66. nodeId: Want To Buy: ONE CERADYNE ESAPI 6x8 Side Plate Lvl III
+score: 0.701434716338
+itemManufacturer: 
+availableDate: 2015-05-26 00:00:00
+
+67. nodeId: For Sale: 3x Magnifier Lens
+score: 0.692837387947
+itemManufacturer: 
+availableDate: 2015-05-26 00:00:00
+
+68. nodeId: For Sale/Trade: Glock 17/19 IWB Holster
+score: 0.683821529465
+itemManufacturer: 
+availableDate: 2015-05-26 00:00:00
+
+69. nodeId: For Sale: Glock 19 RTF2 with Gills
+score: 0.636146367307
+itemManufacturer: Glock
+availableDate: 2015-05-27 00:00:00
+
+70. nodeId: For Sale: Ruger 10/22 Takedown Multicam Stianless Threaded Barrel. RARE
+score: 0.625113424954
+itemManufacturer: Ruger
+availableDate: 2015-05-27 00:00:00
+
+71. nodeId: For Sale/Trade: Anderson arms ar 15 m4 with 16 inch barrel new unfired
+score: 0.613098788868
+itemManufacturer: Armory Dynamics
+availableDate: 2015-05-18 00:00:00
+
+72. nodeId: For Sale: OBO Norinco AK-47 Type 56 Vietnam War Clone converted Mak-90
+score: 0.612488714279
+itemManufacturer: Norinco
+availableDate: 2015-05-20 00:00:00
+
+73. nodeId: Want To Buy: Smith and Wesson shield in 9mm
+score: 0.601851847921
+itemManufacturer: 
+availableDate: 2015-05-18 00:00:00
+
+74. nodeId: For Sale: .45 ACP &amp; .223, 5.56 ammo
+score: 0.528349205424
+itemManufacturer: 
+availableDate: 2015-05-20 00:00:00
+
+75. nodeId: For Sale/Trade: ADCOR DEFENSE AR15 Pistol 10&quot; Barrel 5.56NATO/223R UNFIRED
+score: 0.528026715226
+itemManufacturer: 
+availableDate: 2015-05-27 00:00:00
+
+76. nodeId: For Sale: Spikes Honey Badger AR Pistol
+score: 0.520105225458
+itemManufacturer: Spikes Tactical
+availableDate: 2015-05-20 00:00:00
+
+77. nodeId: For Trade: Smith and Wesson 642 - 2 with Crimson Trace laser grips8
+score: 0.49297351633
+itemManufacturer: Smith &amp; Wesson
+availableDate: 2015-05-15 00:00:00
+
+78. nodeId: For Sale: 24&quot; Stainless Steel AR15 Upper
+score: 0.15
+itemManufacturer: 
+availableDate: 2015-05-25 00:00:00
+
+79. nodeId: For Sale: MOSSBERG 715T 22LR TACTICAL FLAT TOP RIFLE
+score: 0.15
+itemManufacturer: Mossberg
+availableDate: 2015-05-19 00:00:00
+

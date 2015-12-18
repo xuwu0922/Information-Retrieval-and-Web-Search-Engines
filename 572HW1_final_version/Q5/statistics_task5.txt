@@ -1,0 +1,34 @@
+The following are the result for task5 final run:
+URLs:10468
+Images:603
+*********************** MIME Statistics ***********************
+image/jpeg: 347
+image/png: 198
+image/gif: 50
+image/svg+xml: 7
+image/vnd.microsoft.icon: 1
+text/asp: 43
+text/x-cgi: 1
+text/html: 6647
+text/plain: 4
+text/x-php: 573
+text/css: 16
+text/x-matlab: 6
+text/aspdotnet: 129
+application/pdf: 14
+application/x-msdownload: 1
+application/octet-stream: 16
+application/javascript: 57
+application/xhtml+xml: 36
+application/rss+xml: 16
+application/gzip: 79
+text/x-perl: 1
+
+
+*********************** Status Statistics ***********************
+linked: 353
+fetch_success: 7496
+fetch_redir_perm: 65
+fetch_retry: 319
+fetch_redir_temp: 323
+fetch_gone: 1375

@@ -1,0 +1,57 @@
+The following are the result for task2 final run:
+
+URLs:826843
+Images: 101407
+*********************** MIME Statistics ***********************
+image/jpeg: 91526
+image/png: 4284
+image/gif: 5405
+image/svg+xml: 33
+image/x-ms-bmp: 5
+image/vnd.microsoft.icon: 155
+image/vnd.adobe.photoshop: 1
+image/webp: 2
+image/tiff: 1
+text/asp: 10
+text/aspdotnet: 31
+text/x-cgi: 2
+text/x-jsp: 21
+text/x-coldfusion: 275
+text/calendar: 2
+text/html: 423821
+text/plain: 18
+text/x-php: 6915
+text/css: 2000
+text/x-matlab: 94
+text/aspdotnet: 2
+application/json: 1
+application/xml: 57
+application/pdf: 1034
+application/x-msdownload: 6
+application/octet-stream: 29511
+application/javascript: 2063
+application/xhtml+xml: 105697
+application/json+oembed: 5
+application/rss+xml: 7604
+application/atom+xml: 538
+application/vnd.ms-excel: 6
+application/x-elc: 1
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet: 2
+application/vnd.ibm.secure-container: 24
+application/x-shockwave-flash: 1
+video/x-ms-wmv: 1
+video/x-msvideo: 1
+video/mp4: 3
+audio/mpeg: 6
+message/rfc822: 1
+
+
+*********************** Status Statistics ***********************
+linked: 67048
+fetch_success: 544988
+fetch_redir_perm: 16883
+fetch_retry: 43037
+fetch_redir_temp: 51941
+fetch_gone: 102943
+
+

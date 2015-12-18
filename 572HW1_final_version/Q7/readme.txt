@@ -1,0 +1,1 @@
+Due to time limit, this part, we only use a 3 rounds' data to analyze, the statics_task_old is statics from the same configuration crawling before we use score filter plugin.

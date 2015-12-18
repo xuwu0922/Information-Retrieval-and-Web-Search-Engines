@@ -1,0 +1,206 @@
+##############################http code=405:
+http://patriotpawnandgun.com/wp/services/                                                           
+http://lasvegasartscouncil.org/xmlrpc.php
+http://www.visitlasvegasnm.com/xmlrpc.php
+http://blog.tombstonetactical.com/xmlrpc.php
+http://dareingarms.com/xmlrpc.php
+
+##############################http code=500:
+http://www.autotrader.com/car-match/																
+http://www.wantaddigest.com/rssfeeds/rssmarket.asp?actid=218&dname=Sample       (rss_feed) 
+http://tssoutfitters.com/shop/adaptive-tact-00223-sidewinder-maverick-88-pump-12ga-2-75-10-1-adj-multicam/				
+
+##############################robots_denied:
+http://epconcealedcarry.com/wp-includes/js/comment-reply.min.js?ver=3.6             				
+http://abqcareers.careers.adicio.com/careers/apply/easy?contextType=browse&id=81274739              
+http://phxguntrader.com/wp-includes/js/jquery/jquery.js?ver=1.10.2                                  
+http://pinterest.com/pin/create/button/?url=category%2F172%2FLawnandGarden%2Flistings%2F43622%2F2003-Bolens-Lawn-Tractor.html&media=http%3A%2F%2Fwww.carolinabargaintrader.net%2Fimages%2F4842696.jpg&description=15hp%20Briggs%20%26amp%3Bamp%3B%20Stratton%20engine%2C%2038%26quot%3B%20mower%20deck%2C%20manual%20PTO%2C%20new%20carburetor%2C%20air%20filter%2C%20PTO%20pulley%2C%20and%20transmission%20drive%20belts...%20Ready%20to%20mow%21%21%21%20%24500%20OBO     (login)
+http://wisconsinguntrader.com/components/com_djclassifieds/assets/images/fav_na.png                  
+http://data.cabq.gov/publicsafety/policeincidents/													 
+http://www.gunclicks.com/show-ads.js
+http://delivery.tacticalrepublic.com/w/1.0/ai?auid=336643&cs=50f480022f624&cb=INSERT_RANDOM_NUMBER_HERE
+http://801tactical.com/account/login
+http://801tactical.com/cart
+http://80percentarms.com/account/login
+http://80percentarms.com/account/register
+http://ast1.r10.io/buy_assets/campaigns/2015/raktoberfest/main/227x500_right.jpg
+
+##############################.mobile:
+http://abqcareers.mobile.adicio.com/jobs/user/toggleMobileSite?secureKey=6a7068d4-94f4-b1b4-f91b-116b47f68160               
+
+##############################protocol issues:
+mailto:?subject=Welcome&body=%20http://lasvegasartscouncil.org/
+http://www.hawaiiguntrader.com/xmlrpc.php
+
+##############################connection timeout:
+http://www.floridaguntrader.com/
+http://www.wikiarms.com/favicon.ico?v115
+http://www.carolinabargaintrader.net/index.php?a=28&b=141
+http://www.carolinabargaintrader.net/images/7654301.jpg
+
+##############################read timeout:
+http://www.carolinabargaintrader.net/index.php?a=5&b=185&c=8&browse_view=grid
+http://elpasoguntrader.com/home/category-table/ar-s/ads/0?uid=1153
+
+##############################not found:
+http://www.shooting.org/plus.google.com/+AustinAndrukaitis/posts
+http://aegisguns.com/product/chiappa-firearms-triple-crown-12-gauge/
+http://aegisguns.com/product/marlin-model-336a/
+http://aegisguns.com/product/thompson-center-arms-357-mag-used/
+
+##############################Error parsing:
+http://www.idahogunsforsale.com/style.css
+http://cologunmarket.com/oc-content/themes/modern/js/global.js
+http://www.carolinabargaintrader.net/geo_templates/min.php?r=55.css
+http://idahogunsforsale.com/classifieds/geo_templates/my_templates/external/css/custom.css?_=82422
+
+##############################invalidURI:
+www.comprayventadearms.com
+
+##############################Can't retrieve Tika parser for mime-type text/x-matlab:
+https://www.gunsamerica.com/js/ga.js
+
+##############################TIKA-198: Illegal IOException from org.apache.tika.parser.jpeg.JpegParser@343fe222:
+http://www.budsgunshop.com/catalog/images/716008731.jpg
+
+##############################Can't retrieve Tika parser for mime-type application/octet-stream:
+http://www.conceal-a-gun.com/
+
+##############################Can't retrieve Tika parser for mime-type application/javascript
+2015-10-06 22:26:49,008 WARN  parse.ParseSegment - Error parsing: https://www.gstatic.com/_/play/_/js/k=play.js.ko.Saak6hYHW7c.O/m=base,f,m/rt=j/d=1/rs=AGlW0sYuMXwMgoUFj6BJJIt1LjIcePsROg: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+
+2015-10-06 22:25:50,139 WARN  parse.ParseSegment - Error parsing: https://abs.twimg.com/c/swift/kn/init.9eceacf76f8d40ef4f50f1874b1e47b3e1edf5a3.js: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript
+
+http://www.gunlistings.org/js/jquery-1.3.2.js
+http://www.gunsinternational.com/js/jquery-1.11.1.min.js
+
+##############################Can't retrieve Tika parser for mime-type text/x-php
+2015-10-06 21:55:57,488 WARN  parse.ParseSegment - Error parsing: http://www.zidaho.com/get_image.php?id=77641: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+2015-10-06 05:29:21,022 WARN  parse.ParseSegment - Error parsing: http://www.theoutdoorstrader.com/css.php?css=attached_files,bb_code,itspure_extracss,likes_summary,login_bar,message,message_user_info,panel_scroller,share_page,thread_view,xcfw_copyright,xcodt_ad_view,xcxt_postbit,xcxt_postbit_stats_numbers&style=9&dir=LTR&d=1443923582: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php
+
+http://www.hipointfirearmsforums.com/blogs_css.php
+http://www.hipointfirearmsforums.com/index_css.php
+http://www.hipointfirearmsforums.com/master_css.php
+
+##############################Can't retrieve Tika parser for mime-type text/css
+2015-10-06 22:25:50,580 WARN  parse.ParseSegment - Error parsing: https://aliengearholsters.com/media/css_secure/132d0ebd58d1cef3379bacd2236f7373.css: failed(2,0): Can't retrieve Tika parser for mime-type text/css
+
+2015-10-06 22:26:25,322 WARN  parse.ParseSegment - Error parsing: https://ma.twimg.com/twitter-mobile/8c1d759ced5ed9d4e4778108eaf467589293c3c0/assets/a.css: failed(2,0): Can't retrieve Tika parser for mime-type text/css
+
+http://www.gunlistings.org/styles/main.css
+http://www.gunsinternational.com/css/bootstrap.min.css
+http://www.gunsinternational.com/css/gunsinternational.css?nc=57FFD844-E65C-EEA9-6F493DE3C637003D
+http://www.gunsinternational.com/css/header.css
+
+
+##############################Can't retrieve Tika parser for mime-type application/json
+2015-10-06 22:26:48,994 WARN  parse.ParseSegment - Error parsing: https://www.flickr.com/services/oembed?url=https://www.flickr.com/photos/hiofficer/6983290747&format=json: failed(2,0): Can't retrieve Tika parser for mime-type application/json
+
+##############################http code=403
+
+2015-10-06 14:09:26,130 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/members/ags.23546/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/ags.23546/
+
+2015-10-06 00:00:14,415 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/members/jimmyj.16457/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/jimmyj.16457/
+
+2015-10-06 03:49:03,983 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/members/johnson4.25291/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/johnson4.25291/
+
+##############################http code=503
+2015-10-05 21:56:22,988 INFO  fetcher.FetcherThread - fetch of http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2013/09/112477-75x75.jpg failed with: Http code=503, url=http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2013/09/112477-75x75.jpg
+
+2015-10-05 22:14:33,883 INFO  fetcher.FetcherThread - fetch of http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2015/09/934724-50x50.jpg failed with: Http code=503, url=http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2015/09/934724-50x50.jpg
+
+2015-10-05 22:15:23,648 INFO  fetcher.FetcherThread - fetch of http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2015/09/934724-800x600.jpg failed with: Http code=503, url=http://d222s8o3mncsuw.cloudfront.net/wp-content/uploads/2015/09/934724-800x600.jpg
+
+##############################http code=405
+2015-10-05 15:51:08,107 INFO  fetcher.FetcherThread - fetch of http://www.kyclassifieds.com/xmlrpc.php failed with: Http code=405, url=http://www.kyclassifieds.com/xmlrpc.php
+
+2015-10-05 16:41:34,518 INFO  fetcher.FetcherThread - fetch of http://tennesseegunexchange.com/xmlrpc.php failed with: Http code=405, url=http://tennesseegunexchange.com/xmlrpc.php
+
+##############################Read Time out
+2015-10-06 00:07:18,058 INFO  fetcher.FetcherThread - fetch of http://www.nextechclassifieds.com/listings/708444/ failed with: java.net.SocketTimeoutException: Read timed out
+java.net.SocketTimeoutException: Read timed out
+
+2015-10-06 01:36:58,550 INFO  fetcher.FetcherThread - fetch of http://www.tell-n-sell.com/c-Household-and-Miscellaneous-Classifieds-23.aspx?page=6 failed with: java.net.SocketTimeoutException: Read timed out
+java.net.SocketTimeoutException: Read timed out
+
+##############################ERROR httpclient.Http
+2015-10-05 15:46:42,393 ERROR httpclient.Http - Failed to get protocol output
+java.net.UnknownHostException: www.midwestgtrader.com
+
+2015-10-05 15:46:52,874 ERROR httpclient.Http - Failed to get protocol output
+org.apache.commons.httpclient.ConnectTimeoutException: The host did not accept the connection within timeout of 5000 ms
+
+##############################INVALID uri
+2015-10-05 15:49:01,881 ERROR httpclient.Http - Failed to get protocol output
+java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Auto Parts/Interior': Invalid query
+
+2015-10-05 15:49:06,504 INFO  fetcher.FetcherThread - fetch of https://www.vci-classifieds.com/directory.php?filter=Auto Parts/Tires and Wheels failed with: java.lang.IllegalArgumentException: Invalid uri 'https://www.vci-classifieds.com/directory.php?filter=Auto Parts/Tires and Wheels': Invalid query
+
+##############################Invalid query IllegalArgumentException
+2015-10-06 18:08:30,065 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/trade/burkman03.51593/?reloadList=1&amountFilter[0]=-1 failed with: java.lang.IllegalArgumentException: Invalid uri 'http://www.theoutdoorstrader.com/trade/burkman03.51593/?reloadList=1&amountFilter[0]=-1': Invalid query
+java.lang.IllegalArgumentException: Invalid uri 'http://www.theoutdoorstrader.com/trade/smokie.11976/?reloadList=1&amountFilter[0]=1': Invalid query
+
+2015-10-06 03:07:26,610 INFO  fetcher.FetcherThread - fetch of http://www.theoutdoorstrader.com/trade/gdawg1958.4442/?reloadList=1&amountFilter[0]=1 failed with: java.lang.IllegalArgumentException: Invalid uri 'http://www.theoutdoorstrader.com/trade/gdawg1958.4442/?reloadList=1&amountFilter[0]=1': Invalid query
+java.lang.IllegalArgumentException: Invalid uri 'http://www.theoutdoorstrader.com/trade/chasedeer007.53661/?reloadList=1&amountFilter[0]=0': Invalid query
+
+##############################connection timeout
+
+2015-10-05 15:51:01,957 ERROR httpclient.Http - Failed to get protocol output
+org.apache.commons.httpclient.ConnectTimeoutException: The host did not accept the connection within timeout of 5000 ms
+
+2015-10-05 16:19:18,288 ERROR httpclient.Http - Failed to get protocol output
+org.apache.commons.httpclient.ConnectTimeoutException: The host did not accept the connection within timeout of 5000 ms
+
+##############################can't get robots.txt
+
+2015-10-05 16:19:10,000 INFO  api.HttpRobotRulesParser - Couldn't get robots.txt for http://msguntrader.com/ad-category/ammunition/shotgunammo/: java.net.SocketException: Connection reset
+
+############################## HTTP code=403 Access Denied
+http://www.accurateshooter.com/xmlrpc.php?rsd
+http://accurateshooter.com/admin/advertisinginfo/
+http://www.accurateshooter.com/xmlrpc.php?rsd
+
+############################## A form, need to input
+http://lakecharles.backpage.com/Roommates/
+http://whitehorse.backpage.com/EducationJobs/
+http://yellowknife.backpage.com/RealEstateWanted/
+http://southdakota.backpage.com/MiscRealEstate/
+http://manhattanks.backpage.com/AutoPartsForSale/
+http://chesapeake.backpage.com/LandForSale/
+
+############################## HTTP code=405 XML-RPC server accepts POST requests only.
+http://www.bergerbullets.com/xmlrpc.php
+http://www.whiddengunworks.com/xmlrpc.php
+
+############################## HTTP code=500 - Internal server error.
+http://classic.gunauction.com/search/displayitem.cfm?itemnum=delivery.tacticalrepublic.com
+
+
+############################## fetch_gone
+http://akron-ny.americanlisted.com/creative-jobs/
+http://akron-oh.americanlisted.com/baby-carriages/
+http://baker-or.americanlisted.com/music-instruments/
+http://bala.americanlisted.com/financial/
+
+############################## robots_denied
+http://akron-oh.americanlisted.com/ad/phone_ad/32371091/
+http://ansonia-oh.americanlisted.com/ad/phone_ad/32896477/
+http://babylon.americanlisted.com/ad/phone_ad/32860147/
+
+############################## Time out
+http://agoura.americanlisted.com/bicycles/smart-self-balancing-electric-unicycle-scooter_32654123.html
+http://anchorage-ak.americanlisted.com/all_ads.html?start=20
+http://anchorage-ak.americanlisted.com/kids-products-toys/
+http://ashaiiu.americanlisted.com/23005/vehicle-services/gas-buster-special-15999-beat-the-high-price-of-gas_28245085.html
+
+############################## HTTP code=404
+http://bakersfield.backpage.com/online/errors/404.html
+http://www.backpage.com/en-un/
+
+############################## HTTPS recommend not access
+http://messenger.yahoo.com/edit/send/?.target=unclewill67&.src=pg
+
+
+
+

@@ -1,0 +1,146 @@
+﻿<div yw-active-menu="Queries"
+     yw-active-title="Queries with D3.js"
+     ng-controller="queryCtrl">
+    <div ng-show="hasError()">
+        <div class="alert alert-danger alert-dismissible">
+            <button type="button" class="close"
+                    data-dismiss="alert">
+                <span aria-hidden="true">&times;</span></button>
+            <strong>{{errorMessage}}</strong>
+        </div>
+    </div>
+    <div class="row" ng-show="isLoading()">
+        <div class="col-sm-12 text-center">
+            <img src="images/progressring.gif"/>
+            Loading...
+        </div>
+    </div>
+    <div ng-show="!isLoading()">
+        <div class="row">
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryA()">Query A</button>
+            </div>
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryB()">Query B</button>
+            </div>
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryC()">Query C</button>
+            </div>
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryD()">Query D</button>
+            </div>
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryE()">Query E</button>
+            </div>
+            <div class="col-sm-2">
+                <button class="btn btn-lg btn-primary" ng-click="queryOther();queryOther2()">Other</button>
+            </div>
+        </div>
+        <hr>
+
+        <div ng-show="isDebug==true && session=='queryA'">
+            <div class="page-header text-center">
+                <h1>Kibana</h1>
+            </div>
+            <div class="text-center">
+                <iframe src="http://search-csci572-vbd7idisazj5dy44rsanqhhtkq.us-west-2.es.amazonaws.com/_plugin/kibana/#/visualize/edit/buyers-at-different-locations-date-histogram?embed&_g=()&_a=(filters:!((meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:availableDate,negate:!t,value:'December%208th%202014,%2000:00:00.000%20to%20December%208th%202014,%2023:59:59.999'),range:(availableDate:(gte:1418025600000,lte:1418111999999))),(meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:availableDate,negate:!t,value:'April%2017th%202015,%2001:00:00.000%20to%20April%2018th%202015,%2000:59:59.999'),range:(availableDate:(gte:1429257600000,lte:1429343999999))),(meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:availableDate,negate:!t,value:'March%202nd%202015,%2000:00:00.000%20to%20March%202nd%202015,%2023:59:59.999'),range:(availableDate:(gte:1425283200000,lte:1425369599999))),(meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:location,negate:!t,value:'New%20Bern,%20US%20-%20North%20Carolina%2028560'),query:(match:(location:(query:'New%20Bern,%20US%20-%20North%20Carolina%2028560',type:phrase)))),(meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:availableDate,negate:!t,value:'March%2031st%202015,%2001:00:00.000%20to%20April%201st%202015,%2000:59:59.999'),range:(availableDate:(gte:1427788800000,lte:1427875199999))),(meta:(apply:!t,disabled:!f,index:json_weapons_index_2,key:location,negate:!t,value:'Greenville,%20US%20-%20North%20Carolina%2027858'),query:(match:(location:(query:'Greenville,%20US%20-%20North%20Carolina%2027858',type:phrase))))),linked:!t,query:(query_string:(query:'*')),vis:(aggs:!((id:'1',params:(),schema:metric,type:count),(id:'2',params:(extended_bounds:(),field:availableDate,interval:day,min_doc_count:1),schema:segment,type:date_histogram),(id:'3',params:(field:location,order:desc,orderBy:'1',size:5),schema:group,type:terms)),listeners:(),params:(addLegend:!t,addTooltip:!t,defaultYExtents:!f,mode:stacked,shareYAxis:!t),type:histogram))" height="600" width="800"></iframe>
+            </div>
+            <br>
+
+            <div class="page-header text-center">
+                <h1>D3</h1>
+            </div>
+            <div id="chartA">
+                <svg></svg>
+            </div>
+            <!--<h3>This is for query A result:</h3>
+            <h4>Result's length = {{listA.length}}</h4>
+            <div ng-repeat="e in listA">
+              {{e}}<br>
+            </div>-->
+        </div>
+        <div ng-show="isDebug==true && session=='queryB'">
+            <div class="page-header text-center">
+                <h1>D3</h1>
+            </div>
+            <div id="chartB">
+                <svg></svg>
+            </div>
+            <!--<h3>This is for query B result:</h3>
+            <h4>Result's length = {{listB.length}}</h4>
+            <div ng-repeat="e in listB">
+              {{e}}<br>
+            </div>-->
+        </div>
+        <div ng-show="isDebug==true && session=='queryC'">
+            <div class="page-header text-center">
+                <h1>Kibana</h1>
+            </div>
+            <div class="text-center">
+                <iframe src="http://search-csci572-vbd7idisazj5dy44rsanqhhtkq.us-west-2.es.amazonaws.com/_plugin/kibana/#/visualize/edit/query-c-post-date-and-item-manufacturer?embed&_g=()&_a=(filters:!(),linked:!t,query:(query_string:(query:'*')),vis:(aggs:!((id:'1',params:(),schema:metric,type:count),(id:'2',params:(extended_bounds:(),field:availableDate,interval:day,min_doc_count:1),schema:segment,type:date_histogram),(id:'3',params:(field:itemManufacturer,order:desc,orderBy:'1',size:10),schema:segment,type:terms)),listeners:(),params:(addLegend:!t,addTooltip:!t,isDonut:!f,shareYAxis:!t),type:pie))"
+                        height="600" width="800"></iframe>
+            </div>
+            <br>
+
+            <div class="page-header text-center">
+                <h1>D3</h1>
+            </div>
+            <div id="chartC">
+                <svg></svg>
+            </div>
+            <!--<h3>This is for query C result:</h3>
+            <h4>Result's length = {{listC.length}}</h4>
+            <div ng-repeat="e in listC">
+              {{e}}<br>
+            </div>-->
+        </div>
+        <div ng-show="isDebug==true && session=='queryD'">
+            <div class="page-header text-center">
+                <h1>D3</h1>
+            </div>
+            <div id="chartD">
+                <svg></svg>
+            </div>
+            <!--<h3>This is for query D result:</h3>
+            <h4>Result's length = {{listD.length}}</h4>
+            <div ng-repeat="e in listD">
+              {{e}}<br>
+            </div>-->
+        </div>
+        <div ng-show="isDebug==true && session=='queryE'">
+            <div class="page-header text-center">
+                <h1>Kibana 1</h1>
+            </div>
+            <div class="text-center">
+                <iframe src="http://search-csci572-vbd7idisazj5dy44rsanqhhtkq.us-west-2.es.amazonaws.com/_plugin/kibana/#/visualize/edit/query-e,-explosive-post-locations?embed&_g=()&_a=(filters:!(),linked:!t,query:(query_string:(query:'*')),vis:(aggs:!((id:'1',params:(),schema:metric,type:count),(id:'2',params:(field:coord,precision:3),schema:segment,type:geohash_grid)),listeners:(),params:(isDesaturated:!t,mapType:'Shaded%20Circle%20Markers'),type:tile_map))"
+                        height="600" width="800"></iframe>
+            </div>
+            <br>
+
+            <div class="page-header text-center">
+                <h1>Kibana2</h1>
+            </div>
+            <div class="text-center">
+                <iframe src="http://search-csci572-vbd7idisazj5dy44rsanqhhtkq.us-west-2.es.amazonaws.com/_plugin/kibana/#/visualize/edit/query-e,-top-locations-with-posts-about-explosives?embed&_g=()&_a=(filters:!(),linked:!t,query:(query_string:(query:'*')),vis:(aggs:!((id:'1',params:(),schema:metric,type:count),(id:'2',params:(field:location,order:desc,orderBy:'1',size:20),schema:bucket,type:terms)),listeners:(),params:(perPage:10,showMeticsAtAllLevels:!f,showPartialRows:!f),type:table))"
+                        height="600" width="800"></iframe>
+            </div>
+        </div>
+        <div ng-show="isDebug==true && session=='queryOther'">
+            <div class="page-header text-center">
+                <h1>D3</h1>
+                <h3>Explosive weapon make query <small> Price and search score for each Make</small></h3>
+            </div>
+            <div id="chartOther">
+                <svg></svg>
+            </div>
+            <br>
+            <div class="page-header text-center">
+                <h1>D3</h1>
+                <h3>Explosive weapon query <small> Menufacturer post numbers</small></h3>
+            </div>
+            <div id="chartOther2">
+                <svg></svg>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,100 @@
+nodeId: For Sale: Ruger MkII .22 pistol, 1983; two mags; nice leather holster
+score: 1.90878375266
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Sp 101
+score: 1.90878035487
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger Gunsite Scout .223
+score: 1.90877808854
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale/Trade: Ruger GP100
+score: 1.90877771104
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: BRAND NEW RUGER ORIGINAL WOOD STOCK 10/22 .22LR SEMI AUTO RIFLE
+score: 1.90877101924
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale/Trade: NIB Unfired Ruger LCP380
+score: 1.90877026145
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale/Trade: Ruger lcr 38 sp +p like new
+score: 1.90877000931
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: NEW RUGER 9E IN STOCK-$349
+score: 1.90876855538
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Highly custom Ruger GP100. shoots multiple calibers
+score: 1.90876849293
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale/Trade: K77/22VBZ Ruger
+score: 1.90876684774
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger p95
+score: 1.90876576702
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger SR-22 Tactical 10/22 .22lr Rifle $500 obo
+score: 1.90876557695
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale/Trade: Mini-14 180 mod made in 76 Made in the 200th Year of American Liberty
+score: 1.90876278889
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Scoped Ruger 22/45 MKIII, with extra bbl. upper
+score: 1.90875955756
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: RUGER AR-556 5.56/223 30 ROUND MAGPUL MAG &quot;NEW MODEL&quot; AR556
+score: 1.90875312691
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: RUGER BN34 0306 357 4-5/8&quot; BL AS $$ New in Box
+score: 1.908750704
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger SP101 .357 3&quot; NIB &amp; Accessories
+score: 1.90874942879
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger new model Blackhawk .357/.38
+score: 1.90874898162
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger LC9s Black Factory New
+score: 1.90874399437
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+
+nodeId: For Sale: Ruger LC9 striker
+score: 1.90873983178
+availableDate: 2015-05-20 00:00:00
+itemManufacturer: Ruger
+

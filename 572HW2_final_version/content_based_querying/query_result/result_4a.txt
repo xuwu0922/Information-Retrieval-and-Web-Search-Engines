@@ -1,0 +1,120 @@
+1900-01-01 00:00:00
+{u'key': u'states', u'doc_count': 144}
+{u'key': u'united', u'doc_count': 144}
+{u'key': u'st', u'doc_count': 77}
+{u'key': u'florida', u'doc_count': 74}
+{u'key': u'south', u'doc_count': 74}
+{u'key': u'ohio', u'doc_count': 71}
+{u'key': u'carolina', u'doc_count': 64}
+{u'key': u'north', u'doc_count': 64}
+{u'key': u'tennessee', u'doc_count': 50}
+{u'key': u'city', u'doc_count': 49}
+*****************************
+2015-05-22 00:00:00
+{u'key': u'pennsylvania', u'doc_count': 9}
+{u'key': u'north', u'doc_count': 8}
+{u'key': u'florida', u'doc_count': 6}
+{u'key': u'st', u'doc_count': 6}
+{u'key': u'113', u'doc_count': 5}
+{u'key': u'bend', u'doc_count': 5}
+{u'key': u'blvd', u'doc_count': 5}
+{u'key': u'indiana', u'doc_count': 5}
+{u'key': u'jefferson', u'doc_count': 5}
+{u'key': u'south', u'doc_count': 5}
+*****************************
+2015-05-24 00:00:00
+{u'key': u'st', u'doc_count': 13}
+{u'key': u'florida', u'doc_count': 11}
+{u'key': u'pete', u'doc_count': 11}
+{u'key': u'tampa', u'doc_count': 11}
+{u'key': u'springs', u'doc_count': 10}
+{u'key': u'tarpon', u'doc_count': 10}
+{u'key': u'ohio', u'doc_count': 7}
+{u'key': u'carolina', u'doc_count': 5}
+{u'key': u'tennessee', u'doc_count': 5}
+{u'key': u'city', u'doc_count': 4}
+*****************************
+2015-05-23 00:00:00
+{u'key': u'st', u'doc_count': 13}
+{u'key': u'florida', u'doc_count': 11}
+{u'key': u'pete', u'doc_count': 11}
+{u'key': u'springs', u'doc_count': 11}
+{u'key': u'tampa', u'doc_count': 11}
+{u'key': u'tarpon', u'doc_count': 11}
+{u'key': u'states', u'doc_count': 7}
+{u'key': u'united', u'doc_count': 7}
+{u'key': u'kentucky', u'doc_count': 4}
+{u'key': u'massachusetts', u'doc_count': 4}
+*****************************
+2015-05-30 00:00:00
+{u'key': u'springs', u'doc_count': 14}
+{u'key': u'st', u'doc_count': 14}
+{u'key': u'florida', u'doc_count': 13}
+{u'key': u'pete', u'doc_count': 13}
+{u'key': u'tampa', u'doc_count': 13}
+{u'key': u'tarpon', u'doc_count': 13}
+{u'key': u'states', u'doc_count': 10}
+{u'key': u'united', u'doc_count': 10}
+{u'key': u'new', u'doc_count': 4}
+{u'key': u'ohio', u'doc_count': 4}
+*****************************
+2015-05-26 00:00:00
+{u'key': u'north', u'doc_count': 6}
+{u'key': u'florida', u'doc_count': 5}
+{u'key': u'st', u'doc_count': 5}
+{u'key': u'carolina', u'doc_count': 4}
+{u'key': u'ohio', u'doc_count': 4}
+{u'key': u'michigan', u'doc_count': 3}
+{u'key': u'new', u'doc_count': 3}
+{u'key': u'south', u'doc_count': 3}
+{u'key': u'states', u'doc_count': 3}
+{u'key': u'united', u'doc_count': 3}
+*****************************
+2015-05-16 00:00:00
+{u'key': u'carolina', u'doc_count': 7}
+{u'key': u'south', u'doc_count': 7}
+{u'key': u'ohio', u'doc_count': 6}
+{u'key': u'north', u'doc_count': 4}
+{u'key': u'states', u'doc_count': 4}
+{u'key': u'united', u'doc_count': 4}
+{u'key': u'city', u'doc_count': 3}
+{u'key': u'new', u'doc_count': 3}
+{u'key': u'oregon', u'doc_count': 3}
+{u'key': u'tennessee', u'doc_count': 3}
+*****************************
+2015-05-20 00:00:00
+{u'key': u'carolina', u'doc_count': 7}
+{u'key': u'north', u'doc_count': 6}
+{u'key': u'east', u'doc_count': 4}
+{u'key': u'indiana', u'doc_count': 4}
+{u'key': u'city', u'doc_count': 3}
+{u'key': u'greensboro', u'doc_count': 3}
+{u'key': u'indianapolis', u'doc_count': 3}
+{u'key': u'northern', u'doc_count': 3}
+{u'key': u'oklahoma', u'doc_count': 3}
+{u'key': u'seattle', u'doc_count': 3}
+*****************************
+2015-05-21 00:00:00
+{u'key': u'states', u'doc_count': 6}
+{u'key': u'united', u'doc_count': 6}
+{u'key': u'city', u'doc_count': 5}
+{u'key': u'st', u'doc_count': 4}
+{u'key': u'colorado', u'doc_count': 3}
+{u'key': u'denver', u'doc_count': 3}
+{u'key': u'indiana', u'doc_count': 3}
+{u'key': u'minnesota', u'doc_count': 3}
+{u'key': u'north', u'doc_count': 3}
+{u'key': u'oklahoma', u'doc_count': 3}
+*****************************
+2015-05-17 00:00:00
+{u'key': u'kentucky', u'doc_count': 4}
+{u'key': u'pennsylvania', u'doc_count': 4}
+{u'key': u'states', u'doc_count': 4}
+{u'key': u'united', u'doc_count': 4}
+{u'key': u'illinois', u'doc_count': 3}
+{u'key': u'indiana', u'doc_count': 3}
+{u'key': u'minnesota', u'doc_count': 3}
+{u'key': u'st', u'doc_count': 3}
+{u'key': u'west', u'doc_count': 3}
+{u'key': u'alabama', u'doc_count': 2}
+*****************************

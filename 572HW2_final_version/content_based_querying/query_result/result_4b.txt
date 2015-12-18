@@ -1,0 +1,380 @@
+1900-01-01 00:00:00, count=79700
+>>>>>handguns, count=20872
+states, count=2479
+united, count=2479
+carolina, count=2006
+north, count=1917
+ohio, count=1908
+south, count=1839
+florida, count=1356
+st, count=1294
+tennessee, count=1247
+indiana, count=1123
+###################
+>>>>>rifles, count=14631
+states, count=2249
+united, count=2248
+carolina, count=1312
+north, count=1289
+south, count=1087
+ohio, count=1060
+florida, count=805
+st, count=758
+tennessee, count=742
+oklahoma, count=708
+###################
+>>>>>shotguns, count=4164
+states, count=588
+united, count=588
+carolina, count=411
+north, count=400
+ohio, count=363
+south, count=349
+st, count=266
+oklahoma, count=234
+city, count=233
+indiana, count=210
+###################
+*****************************
+2015-05-20 00:00:00, count=4754
+>>>>>handguns, count=1319
+states, count=182
+united, count=182
+carolina, count=132
+ohio, count=126
+north, count=119
+south, count=115
+city, count=107
+oklahoma, count=101
+indiana, count=78
+florida, count=76
+###################
+>>>>>rifles, count=818
+states, count=116
+united, count=116
+carolina, count=86
+south, count=74
+north, count=70
+oklahoma, count=66
+ohio, count=64
+city, count=58
+st, count=45
+florida, count=43
+###################
+>>>>>shotguns, count=275
+carolina, count=31
+south, count=30
+states, count=30
+united, count=30
+ohio, count=23
+north, count=22
+oklahoma, count=22
+city, count=18
+st, count=16
+new, count=13
+###################
+*****************************
+2015-05-22 00:00:00, count=4551
+>>>>>handguns, count=1209
+carolina, count=144
+north, count=119
+south, count=107
+states, count=105
+united, count=105
+ohio, count=93
+indiana, count=81
+florida, count=73
+st, count=64
+colorado, count=56
+###################
+>>>>>rifles, count=759
+states, count=90
+united, count=90
+carolina, count=66
+north, count=58
+south, count=54
+ohio, count=50
+colorado, count=47
+oklahoma, count=45
+florida, count=43
+st, count=39
+###################
+>>>>>shotguns, count=239
+ohio, count=31
+states, count=26
+united, count=26
+north, count=21
+carolina, count=20
+oklahoma, count=16
+colorado, count=15
+fort, count=15
+city, count=14
+south, count=14
+###################
+*****************************
+2015-05-19 00:00:00, count=4462
+>>>>>handguns, count=1179
+states, count=161
+united, count=161
+carolina, count=102
+south, count=100
+ohio, count=92
+north, count=85
+st, count=80
+oklahoma, count=73
+new, count=69
+city, count=67
+###################
+>>>>>rifles, count=807
+states, count=117
+united, count=117
+carolina, count=76
+ohio, count=60
+north, count=59
+south, count=59
+new, count=54
+city, count=47
+oklahoma, count=45
+st, count=43
+###################
+>>>>>shotguns, count=209
+states, count=36
+united, count=36
+carolina, count=28
+ohio, count=24
+north, count=21
+south, count=18
+new, count=11
+city, count=10
+arkansas, count=9
+florida, count=9
+###################
+*****************************
+2015-05-16 00:00:00, count=4432
+>>>>>handguns, count=1168
+states, count=129
+united, count=129
+carolina, count=108
+north, count=103
+south, count=99
+ohio, count=97
+st, count=70
+indiana, count=67
+florida, count=64
+texas, count=58
+###################
+>>>>>rifles, count=809
+states, count=111
+united, count=111
+carolina, count=81
+south, count=78
+north, count=66
+st, count=45
+ohio, count=43
+texas, count=41
+alabama, count=37
+georgia, count=36
+###################
+>>>>>shotguns, count=225
+states, count=24
+united, count=24
+st, count=21
+ohio, count=20
+south, count=18
+carolina, count=16
+florida, count=16
+oklahoma, count=16
+north, count=14
+indiana, count=12
+###################
+*****************************
+2015-05-18 00:00:00, count=4389
+>>>>>handguns, count=1173
+states, count=178
+united, count=178
+carolina, count=145
+north, count=121
+ohio, count=117
+south, count=106
+city, count=84
+oklahoma, count=81
+st, count=79
+florida, count=63
+###################
+>>>>>rifles, count=805
+states, count=108
+united, count=108
+carolina, count=73
+north, count=67
+st, count=57
+south, count=52
+minnesota, count=48
+ohio, count=48
+city, count=47
+oklahoma, count=45
+###################
+>>>>>shotguns, count=216
+states, count=33
+united, count=33
+ohio, count=21
+carolina, count=17
+new, count=16
+st, count=16
+south, count=15
+colorado, count=14
+north, count=13
+minnesota, count=12
+###################
+*****************************
+2015-05-21 00:00:00, count=4369
+>>>>>handguns, count=1120
+states, count=140
+united, count=140
+carolina, count=117
+south, count=108
+ohio, count=106
+north, count=104
+st, count=78
+florida, count=69
+oklahoma, count=62
+city, count=57
+###################
+>>>>>rifles, count=820
+states, count=113
+united, count=113
+carolina, count=72
+north, count=70
+ohio, count=65
+south, count=56
+city, count=51
+oklahoma, count=43
+oregon, count=43
+st, count=43
+###################
+>>>>>shotguns, count=236
+states, count=38
+united, count=38
+city, count=23
+st, count=23
+carolina, count=22
+oklahoma, count=20
+ohio, count=19
+south, count=17
+florida, count=16
+colorado, count=15
+###################
+*****************************
+2015-05-23 00:00:00, count=4355
+>>>>>handguns, count=1074
+states, count=152
+united, count=152
+carolina, count=103
+north, count=97
+ohio, count=93
+south, count=89
+st, count=71
+west, count=67
+oklahoma, count=62
+texas, count=58
+###################
+>>>>>rifles, count=789
+states, count=129
+united, count=129
+carolina, count=75
+north, count=72
+south, count=70
+st, count=58
+florida, count=52
+city, count=47
+missouri, count=47
+oklahoma, count=44
+###################
+>>>>>shotguns, count=211
+states, count=28
+united, count=28
+st, count=20
+carolina, count=18
+minnesota, count=18
+south, count=18
+city, count=15
+minneapolis, count=15
+north, count=15
+paul, count=15
+###################
+*****************************
+2015-05-26 00:00:00, count=3974
+>>>>>handguns, count=1052
+states, count=148
+united, count=148
+carolina, count=100
+south, count=98
+north, count=90
+ohio, count=78
+indiana, count=69
+st, count=69
+oklahoma, count=67
+city, count=65
+###################
+>>>>>rifles, count=766
+states, count=97
+united, count=97
+carolina, count=75
+north, count=63
+south, count=60
+oklahoma, count=59
+city, count=47
+ohio, count=43
+washington, count=41
+colorado, count=38
+###################
+>>>>>shotguns, count=249
+states, count=25
+united, count=25
+south, count=23
+st, count=23
+carolina, count=21
+colorado, count=21
+fort, count=19
+ohio, count=17
+missouri, count=16
+florida, count=15
+###################
+*****************************
+2015-05-17 00:00:00, count=3909
+>>>>>handguns, count=1028
+north, count=121
+carolina, count=114
+states, count=107
+united, count=107
+ohio, count=89
+city, count=65
+st, count=65
+south, count=61
+florida, count=58
+oklahoma, count=54
+###################
+>>>>>rifles, count=727
+states, count=102
+united, count=102
+carolina, count=80
+north, count=76
+south, count=69
+ohio, count=49
+oregon, count=42
+st, count=41
+oklahoma, count=39
+washington, count=39
+###################
+>>>>>shotguns, count=205
+states, count=30
+united, count=30
+st, count=19
+carolina, count=17
+city, count=16
+wisconsin, count=16
+minnesota, count=15
+north, count=15
+ohio, count=14
+south, count=12
+###################
+*****************************

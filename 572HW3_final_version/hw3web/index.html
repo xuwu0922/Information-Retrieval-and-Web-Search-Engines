@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html ng-app="main">
+<head>
+  <title>CSCI 572 Homework3</title>
+  <link href="css/bootstrap.css" rel="stylesheet" />
+  <link href="css/site.css" rel="stylesheet" />
+  <script src="jquery-2.1.4.min.js"></script>
+  <script src="bootstrap.min.js"></script>
+  <script src="angular.min.js"></script>
+  <script src="angular-route.min.js"></script>
+  <script src="modules/core.js"></script>
+  <script src="modules/main.js"></script>
+  <!-- Maintenance scripts -->
+  <script src="modules/maintenance.js"></script>
+  <script src="modules/query.js"></script>
+  <!-- Model scripts -->
+  <script src="modules/model.js"></script>
+  <!-- D3 scripts -->
+  <script src="d3/d3.min.js"></script>
+  <!-- NVD3 -->
+  <link href="css/nv.d3.min.css" rel="stylesheet">
+  <script src="d3/nv.d3.min.js"></script>
+  <script src="d3/stream_layers.js"></script>
+
+</head>
+<body ng-controller="adminCtrl">
+  <!-- Navigation header -->
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#adminMenu">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#/main"
+         ng-click="showMain()">
+        CSCI572 Project 3
+      </a>
+      <div class="collapse navbar-collapse" id="adminMenu">
+        <ul class="nav navbar-nav">
+          <li yw-menu-id="Queries">
+            <a href="#/query">Queries</a>
+          </li>
+          <li yw-menu-id="Kibana">
+            <a href="#/kibana">Kibana</a>
+          </li>
+          <li yw-menu-id="FacetView">
+            <a href="../facetview/index.html" target="_blank">FacetView</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Optional title bar -->
+  <div class="current-spot">
+    <div class="container-fluid" ng-show="!isActive('main')">
+      <div class="container">
+        <h3>{{getTitle()}}</h3>
+      </div>
+    </div>
+  </div>
+
+  <!-- View content -->
+  <div class="main-content">
+    <div class="container-fluid">
+      <div class="container">
+        <div ng-view></div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>

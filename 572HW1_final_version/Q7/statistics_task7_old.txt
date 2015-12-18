@@ -1,0 +1,30 @@
+The following are the result for task7 final run:
+URLs:8353
+Images:1455
+*********************** MIME Statistics ***********************
+image/jpeg: 1232
+image/png: 151
+image/gif: 60
+image/vnd.microsoft.icon: 12
+text/aspdotnet: 2
+text/html: 6262
+text/plain: 2
+text/x-php: 34
+text/css: 102
+text/x-matlab: 4
+application/xml: 6
+application/pdf: 8
+application/octet-stream: 48
+application/javascript: 221
+application/xhtml+xml:448
+application/rss+xml: 125
+application/atom+xml: 4
+
+
+*********************** Status Statistics ***********************
+linked: 193
+fetch_success: 7392
+fetch_redir_perm: 47
+fetch_retry: 386
+fetch_redir_temp: 151
+fetch_gone: 184
