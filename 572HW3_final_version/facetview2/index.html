@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>FacetView</title>
+
+  <script type="text/javascript" src="vendor/jquery/1.7.1/jquery-1.7.1.min.js"></script>
+
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>  
+
+  <link rel="stylesheet" href="vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.css">
+  <script type="text/javascript" src="vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.min.js"></script>
+
+  <!-- note that we require the es.js integration, the bootstrap2 facetview and the facetview core -->
+  <script type="text/javascript" src="es.js"></script>
+  <script type="text/javascript" src="bootstrap2.facetview.theme.js"></script>
+  <script type="text/javascript" src="jquery.facetview2.js"></script>
+
+  <link rel="stylesheet" href="css/facetview.css">
+
+  <script type="text/javascript">
+jQuery(document).ready(function($) {
+    $('.facet-view-simple').each(function() {
+        $(this).facetview({
+            search_url : "http://search-csci572-vbd7idisazj5dy44rsanqhhtkq.us-west-2.es.amazonaws.com/json_weapons_index_2/weapon_doc/_search?",
+            datatype:'json',
+
+            "result_display": [
+
+                [ {"pre" : "<strong>Title:", "field": "title", "post" : "</strong>"} ],
+                [ {"pre" : "<em><b>Location</b>: ","field": "location", "post" : "</em>"} ],
+                [ {"pre" : "<em><b>AvailableDate</b>: ", "field": "availableDate", "post" : "</em>"} ],
+                [ {"pre" : "<em><b>Description</b>: ", "field": "description", "post" : "</em>"} ],
+                [ {"pre" : "<em><b>ItemCategory</b>: ", "field": "itemCategory", "post" : "</em>"} ],
+                [ {"pre" : "<em><b>ItemManufacturer</b>: ", "field": "itemManufacturer", "post" : "</em>"} ]
+
+            ],
+
+            facets: [
+
+                // {'field':'title', 'display': 'title'}, 
+                {'field':'location', 'display': 'location'},
+                //{'field':'description', 'display': 'description'},
+                {'field':'itemCategory', 'display': 'itemCategory'},
+                {'field':'itemManufacturer', 'display': 'itemManufacturer'},
+                {'field':'availableDate', 'display': 'availableDate'}
+
+            ],
+
+        });
+    });
+});
+  </script>
+
+<style type="text/css">
+.facet-view-simple{
+    width:1170px;
+    height:600px;
+    margin:20px auto 0 auto;
+}
+</style>
+
+</head>
+<body>
+
+    <div class="facet-view-simple"></div>
+
+</body>
+</html>
